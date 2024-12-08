@@ -1,0 +1,10 @@
+Star Schema Representation
+
+Fact Table:
+    characters
+
+Dimension Tables:
+    comics, 
+    series, 
+    stories, 
+    events

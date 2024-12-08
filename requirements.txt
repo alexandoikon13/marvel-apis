@@ -1,0 +1,17 @@
+flask                   # Flask framework, compatible with Python 3.9
+gunicorn                # Production WSGI server
+
+## Database dependencies
+sqlalchemy              # SQL toolkit and ORM, ensure Python 3.9 compatibility
+sqlalchemy-utils        # Additional utilities for SQLAlchemy
+psycopg2-binary         # PostgreSQL adapter for Python
+
+## Data processing
+pandas                  # Data analysis and manipulation library, compatible with Python 3.9
+
+## AWS SDK
+boto3==1.28.33          # AWS SDK for Python
+botocore==1.31.33
+
+## Environment variables management
+python-dotenv           # For managing .env files
