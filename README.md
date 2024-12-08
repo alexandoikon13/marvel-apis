@@ -19,4 +19,4 @@ A Flask-based web application to explore data from the Marvel Universe using the
 - **Database**: PostgreSQL (hosted on Heroku), AWS S3 bucket.
 - **Data Handling**: Pandas for CSV processing.
 - **API**: Marvel API for data fetching.
-- **Deploymen**: Docker for containerization. Heroku cluster for deploying the containerized app.
+- **Deployment**: Docker for containerization. Heroku cluster for deploying the containerized app.
